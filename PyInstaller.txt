@@ -1,2 +1,1 @@
-pyinstaller --onefile --icon=p.ico Present.py
 pyinstaller --onefile --windowed --name="Present" --icon=p.ico Present.py
